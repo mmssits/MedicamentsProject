@@ -1,0 +1,139 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.medicalproject"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="33" />
+10
+11    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+11-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:5:5-77
+11-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:5:22-74
+12
+13    <permission
+13-->[androidx.core:core:1.9.0] C:\Users\Mariana Matos\.gradle\caches\transforms-3\25d17c91d5902985514078e82b64555a\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+14        android:name="com.example.medicalproject.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+14-->[androidx.core:core:1.9.0] C:\Users\Mariana Matos\.gradle\caches\transforms-3\25d17c91d5902985514078e82b64555a\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+15        android:protectionLevel="signature" />
+15-->[androidx.core:core:1.9.0] C:\Users\Mariana Matos\.gradle\caches\transforms-3\25d17c91d5902985514078e82b64555a\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+16
+17    <uses-permission android:name="com.example.medicalproject.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+17-->[androidx.core:core:1.9.0] C:\Users\Mariana Matos\.gradle\caches\transforms-3\25d17c91d5902985514078e82b64555a\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.9.0] C:\Users\Mariana Matos\.gradle\caches\transforms-3\25d17c91d5902985514078e82b64555a\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+18
+19    <application
+19-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:7:5-52:19
+20        android:allowBackup="true"
+20-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:8:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.9.0] C:\Users\Mariana Matos\.gradle\caches\transforms-3\25d17c91d5902985514078e82b64555a\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+22        android:dataExtractionRules="@xml/data_extraction_rules"
+22-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:9:9-65
+23        android:debuggable="true"
+24        android:extractNativeLibs="false"
+25        android:fullBackupContent="@xml/backup_rules"
+25-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:10:9-54
+26        android:icon="@mipmap/ic_launcher"
+26-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:11:9-43
+27        android:label="@string/app_name"
+27-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:12:9-41
+28        android:largeHeap="true"
+28-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:13:9-33
+29        android:roundIcon="@mipmap/ic_launcher_round"
+29-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:14:9-54
+30        android:supportsRtl="true"
+30-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:15:9-35
+31        android:testOnly="true"
+32        android:theme="@style/Theme.MedicalProject" >
+32-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:16:9-52
+33        <activity
+33-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:18:9-20:40
+34            android:name="com.example.medicalproject.NotificationAlarm"
+34-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:19:13-46
+35            android:exported="false" />
+35-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:20:13-37
+36
+37        <meta-data
+37-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:22:9-24:32
+38            android:name="android.app.lib_name"
+38-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:23:13-48
+39            android:value="" />
+39-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:24:13-29
+40
+41        <activity
+41-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:26:9-29:54
+42            android:name="com.example.medicalproject.UpdateMedicamento"
+42-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:27:13-46
+43            android:exported="false"
+43-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:28:13-37
+44            android:parentActivityName="com.example.medicalproject.Listagem" />
+44-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:29:13-51
+45        <activity
+45-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:30:9-32:40
+46            android:name="com.example.medicalproject.Listagem"
+46-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:31:13-37
+47            android:exported="false" />
+47-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:32:13-37
+48        <activity
+48-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:33:9-36:54
+49            android:name="com.example.medicalproject.NewMedicamento"
+49-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:34:13-43
+50            android:exported="false"
+50-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:35:13-37
+51            android:parentActivityName="com.example.medicalproject.Listagem" />
+51-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:36:13-51
+52        <activity
+52-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:37:9-49:20
+53            android:name="com.example.medicalproject.MainActivity"
+53-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:38:13-41
+54            android:exported="true" >
+54-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:39:13-36
+55            <intent-filter>
+55-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:40:13-44:29
+56                <action android:name="android.intent.action.MAIN" />
+56-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:41:17-69
+56-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:41:25-66
+57
+58                <category android:name="android.intent.category.LAUNCHER" />
+58-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:43:17-77
+58-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:43:27-74
+59            </intent-filter>
+60
+61            <meta-data
+61-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:22:9-24:32
+62                android:name="android.app.lib_name"
+62-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:23:13-48
+63                android:value="" />
+63-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:24:13-29
+64        </activity>
+65
+66        <receiver android:name="com.example.medicalproject.AlarmReceiver" />
+66-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:51:9-51
+66-->C:\Users\Mariana Matos\AndroidStudioProjects\MedicalProject\app\src\main\AndroidManifest.xml:51:19-48
+67
+68        <provider
+68-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mariana Matos\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+69            android:name="androidx.startup.InitializationProvider"
+69-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mariana Matos\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+70            android:authorities="com.example.medicalproject.androidx-startup"
+70-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mariana Matos\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+71            android:exported="false" >
+71-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mariana Matos\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+72            <meta-data
+72-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mariana Matos\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+73                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+73-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mariana Matos\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+74                android:value="androidx.startup" />
+74-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Mariana Matos\.gradle\caches\transforms-3\2359ec2300da750368c8a650184da00c\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+75            <meta-data
+75-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Mariana Matos\.gradle\caches\transforms-3\d78e4e26e1aefc152d0ee4dc6a642534\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+76                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+76-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Mariana Matos\.gradle\caches\transforms-3\d78e4e26e1aefc152d0ee4dc6a642534\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+77                android:value="androidx.startup" />
+77-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Mariana Matos\.gradle\caches\transforms-3\d78e4e26e1aefc152d0ee4dc6a642534\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+78        </provider>
+79    </application>
+80
+81</manifest>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EBE6F3"
+    tools:context=".UpdateMedicamento">
+
+    <EditText
+        android:id="@+id/editTextNome"
+        android:layout_width="172dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="44dp"
+        android:layout_marginEnd="36dp"
+        android:contentDescription="Nome"
+        android:ems="10"
+        android:inputType="text"
+        android:hint="Nome"
+        android:textColor="#3A2753"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="Nome" />
+
+    <EditText
+        android:id="@+id/editTextDose"
+        android:layout_width="172dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="36dp"
+        android:contentDescription="Dose"
+        android:ems="10"
+        android:inputType="text"
+        android:hint="Dose"
+        android:textColor="#3A2753"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextNome"
+        tools:text="Dose" />
+
+    <EditText
+        android:id="@+id/editTextInicio"
+        android:layout_width="172dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="36dp"
+        android:contentDescription="Horário Inicial"
+        android:ems="10"
+        android:inputType="time"
+        android:hint="Horário Inicial"
+        android:textColor="#3A2753"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextDose"
+        tools:text="Horário Inicial" />
+
+    <EditText
+        android:id="@+id/editTextHoras"
+        android:layout_width="172dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="36dp"
+        android:contentDescription="Intervalo (horas)"
+        android:ems="10"
+        android:inputType="number"
+        android:hint="Intervalo (horas)"
+        android:textColor="#3A2753"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextInicio"
+        tools:text="Intervalo (horas)" />
+
+    <EditText
+        android:id="@+id/editTextDesc"
+        android:layout_width="339dp"
+        android:layout_height="187dp"
+        android:layout_marginBottom="140dp"
+        android:contentDescription="Descrição (opcional)"
+        android:ems="10"
+        android:gravity="start|top"
+        android:inputType="textMultiLine"
+        android:hint="Descrição (opcional)"
+        android:textColor="#3A2753"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextHoras"
+        app:layout_constraintVertical_bias="0.8"
+        tools:text="Descrição (opcional)" />
+
+    <Button
+        android:id="@+id/buttonUpdate"
+        android:layout_width="99dp"
+        android:layout_height="56dp"
+        android:layout_marginEnd="48dp"
+        android:layout_marginBottom="32dp"
+        android:text="Alterar"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <Button
+        android:id="@+id/buttonCor"
+        android:layout_width="128dp"
+        android:layout_height="140dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="68dp"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="Cor" />
+
+    <Button
+        android:id="@+id/buttonDelete"
+        android:layout_width="99dp"
+        android:layout_height="56dp"
+        android:layout_marginStart="48dp"
+        android:layout_marginBottom="32dp"
+        android:backgroundTint="#9F0606"
+        android:text="Excluir"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

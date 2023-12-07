@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-merged_res-29:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-main-31:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-merged_res-29:\\layout_activity_update_medicamento.xml.flat",
+        "source": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-main-31:\\layout\\activity_update_medicamento.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-merged_res-29:\\layout_activity_new_medicamento.xml.flat",
+        "source": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-main-31:\\layout\\activity_new_medicamento.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-merged_res-29:\\layout_activity_listagem.xml.flat",
+        "source": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-main-31:\\layout\\activity_listagem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-merged_res-29:\\drawable_png_transparent_color_wheel_computer_icons_rgb_color_space_international_commission_on_illumination_color_mode_rgb_miscellaneous_blue_color.png.flat",
+        "source": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-main-31:\\drawable\\png_transparent_color_wheel_computer_icons_rgb_color_space_international_commission_on_illumination_color_mode_rgb_miscellaneous_blue_color.png"
+    },
+    {
+        "merged": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-merged_res-29:\\drawable_nouveau_symbole_violet.png.flat",
+        "source": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-main-31:\\drawable\\nouveau_symbole_violet.png"
+    },
+    {
+        "merged": "com.example.medicalproject.app-merged_res-29:/layout_activity_new_medicamento.xml.flat",
+        "source": "com.example.medicalproject.app-main-31:/layout/activity_new_medicamento.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-merged_res-29:\\layout_activity_notification_alarm.xml.flat",
+        "source": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-main-31:\\layout\\activity_notification_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-merged_res-29:\\drawable_icone_de_l_historique_violet.png.flat",
+        "source": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-main-31:\\drawable\\icone_de_l_historique_violet.png"
+    },
+    {
+        "merged": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-merged_res-29:\\drawable_icone_de_la_maison_pourpre.png.flat",
+        "source": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-main-31:\\drawable\\icone_de_la_maison_pourpre.png"
+    },
+    {
+        "merged": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.medicalproject.app-merged_res-29:/layout_activity_update_medicamento.xml.flat",
+        "source": "com.example.medicalproject.app-main-31:/layout/activity_update_medicamento.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-merged_res-29:\\drawable_background_comprimidos_removebg__1_.png.flat",
+        "source": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-main-31:\\drawable\\background_comprimidos_removebg__1_.png"
+    }
+]

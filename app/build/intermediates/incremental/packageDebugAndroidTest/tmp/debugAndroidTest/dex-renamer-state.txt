@@ -1,0 +1,10 @@
+#Mon Dec 04 21:49:30 BRT 2023
+base.0=C\:\\Users\\Mariana Matos\\AndroidStudioProjects\\MedicalProject\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+base.1=C\:\\Users\\Mariana Matos\\AndroidStudioProjects\\MedicalProject\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.2=C\:\\Users\\Mariana Matos\\AndroidStudioProjects\\MedicalProject\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\3\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=3/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex

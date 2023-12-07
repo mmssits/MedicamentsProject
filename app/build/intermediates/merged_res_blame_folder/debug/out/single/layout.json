@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-mergeDebugResources-28:\\layout\\activity_new_medicamento.xml",
+        "source": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-main-31:\\layout\\activity_new_medicamento.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-mergeDebugResources-28:\\layout\\activity_notification_alarm.xml",
+        "source": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-main-31:\\layout\\activity_notification_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-mergeDebugResources-28:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-mergeDebugResources-28:\\layout\\activity_listagem.xml",
+        "source": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-main-31:\\layout\\activity_listagem.xml"
+    },
+    {
+        "merged": "com.example.medicalproject.app-mergeDebugResources-28:/layout/activity_update_medicamento.xml",
+        "source": "com.example.medicalproject.app-main-31:/layout/activity_update_medicamento.xml"
+    },
+    {
+        "merged": "com.example.medicalproject.app-mergeDebugResources-28:/layout/activity_new_medicamento.xml",
+        "source": "com.example.medicalproject.app-main-31:/layout/activity_new_medicamento.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-mergeDebugResources-28:\\layout\\activity_update_medicamento.xml",
+        "source": "C:\\Users\\Mariana Matos\\.gradle\\daemon\\8.0\\com.example.medicalproject.app-main-31:\\layout\\activity_update_medicamento.xml"
+    }
+]
