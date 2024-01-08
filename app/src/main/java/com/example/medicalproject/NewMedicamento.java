@@ -79,23 +79,23 @@ public class NewMedicamento extends AppCompatActivity {
                 stmt.executeInsert();
                 bancoDados.close();
                 finish();
-                //bancoDados = openOrCreateDatabase("appMedicamentos", MODE_PRIVATE, null);
+                bancoDados = openOrCreateDatabase("appMedicamentos", MODE_PRIVATE, null);
 
-                //String select = "SELECT id, nome FROM medicamentosTable WHERE nome"
+                String select = "SELECT id, nome FROM medicamentosTable WHERE nome"
 
-                //Cursor cursor = bancoDados.rawQuery("SELECT id FROM medicamentosTable WHERE (nome = '" + editTextNome.getText().toString() + "')", null);
-                // Integer id = Integer.valueOf(cursor.getString(cursor.getColumnIndexOrThrow("id")));
+                Cursor cursor = bancoDados.rawQuery("SELECT id FROM medicamentosTable WHERE (nome = '" + editTextNome.getText().toString() + "')", null);
+                Integer id = Integer.valueOf(cursor.getString(cursor.getColumnIndexOrThrow("id")));
 
-                //AlarmHelper alarm = new AlarmHelper();
+                AlarmHelper alarm = new AlarmHelper();
 
-                //try {
-                    //alarm.createAlarm(this, Long.parseLong(editTextInicio.getText().toString()), Long.parseLong(editTextHoras.getText().toString()), id, new Intent(this, NotificationAlarm.class));
-                    //bancoDados.close();
+                try {
+                    alarm.createAlarm(this, Long.parseLong(editTextInicio.getText().toString()), Long.parseLong(editTextHoras.getText().toString()), id, new Intent(this, NotificationAlarm.class));
+                    bancoDados.close();
 
-                //}
-                //catch (Exception e ){
-                    //e.printStackTrace();
-                //}
+                }
+                catch (Exception e ){
+                    e.printStackTrace();
+                }
             }
             catch (Exception e){
                 e.printStackTrace();
